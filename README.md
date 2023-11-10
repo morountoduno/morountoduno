@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @morountoduno
-- 👀 I’m interested in learning MONGO, DJANGO 
+- 👀 I’m interested in learning DJANGO 
 - 🌱 I’m currently learning HTML,CSS,JS,NODE,EXPRESS AND REACT
-- 💞️ I’m looking to collaborate on understanding GIT and GITHUB
+- 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me morountodunokedara@gmail.com
 
 <!---
