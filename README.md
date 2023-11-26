@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morountoduno
-- 👀 I’m interested in learning DJANGO 
-- 🌱 I’m currently learning HTML,CSS,JS,NODE,EXPRESS AND REACT
+- 👀 I’m interested in learning React and Angular
+- 🌱 I’m currently learning HTML,CSS,JS,NODE,EXPRESS
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me morountodunokedara@gmail.com
 
